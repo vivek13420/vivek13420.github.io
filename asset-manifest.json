@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.419f7945.css",
-    "main.js": "/static/js/main.1971411b.js",
+    "main.js": "/static/js/main.b9da0932.js",
     "static/media/bg1.gif": "/static/media/bg1.d4a402f4b5da5590c675.gif",
     "static/media/profile.jpg": "/static/media/profile.3e36b9b8359094354c61.jpg",
     "static/media/outlook1.png": "/static/media/outlook1.292604f1d014214b7193.png",
@@ -18,6 +18,7 @@
     "static/media/cricinfo3.png": "/static/media/cricinfo3.3513f75599004c8def1b.png",
     "static/media/pharm3.png": "/static/media/pharm3.9da2bdb597c0d6394c9e.png",
     "static/media/nodejs.jpg": "/static/media/nodejs.d014a8eebcc3ed0c454e.jpg",
+    "static/media/sendinblue.png": "/static/media/sendinblue.14a37939d5d9b914673c.png",
     "static/media/ever3.png": "/static/media/ever3.2cf62a7d458602ac1f86.png",
     "static/media/ever1.png": "/static/media/ever1.62371fac27ab5ccf520d.png",
     "static/media/reducs.jpg": "/static/media/reducs.393c075e2970664559aa.jpg",
@@ -35,10 +36,10 @@
     "static/media/type.png": "/static/media/type.c30f3f3610e109e285f1.png",
     "index.html": "/index.html",
     "main.419f7945.css.map": "/static/css/main.419f7945.css.map",
-    "main.1971411b.js.map": "/static/js/main.1971411b.js.map"
+    "main.b9da0932.js.map": "/static/js/main.b9da0932.js.map"
   },
   "entrypoints": [
     "static/css/main.419f7945.css",
-    "static/js/main.1971411b.js"
+    "static/js/main.b9da0932.js"
   ]
 }
